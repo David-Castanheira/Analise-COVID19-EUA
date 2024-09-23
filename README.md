@@ -1,7 +1,7 @@
 # Análise de casos totais de COVID-19 nos EUA
 🚧 Em construção 🚧
 
-Este repositório contém um projeto de aprendizagem inicial focado na análise de dados dos casos totais de COVID-19 nos Estados Unidos. O objetivo é explorar e visualizar os dados para obter insights significativos e visualização de gráficos. Para tal, foi-se utilizado o Google Colab, ambiente de desenvolvimento e execução no navegador sem que seja necessário instalar nada previamente. Abaixo segue um pequeno tutorial caso deseje executar localmente em seu IDE:
+Este repositório contém um projeto de aprendizagem inicial focado na análise de dados dos casos totais de COVID-19 nos Estados Unidos. O objetivo é explorar e visualizar os dados para obter insights significativos e visualização de gráficos. Para tal, foi-se utilizado o Google Colab, ambiente de desenvolvimento e execução no navegador onde não se é necessário instalar nada previamente. Abaixo segue um pequeno tutorial caso deseje executar localmente em seu IDE:
 
 ## Ambiente virtual
 Durante este, foi-se criado um ambiente virtual, o que garante o desenvolvimento estável e consistente sem interferir em outros projetos ou no ambiente global, neste caso, do Python. **É importante que esse passo seja feito antes mesmo da instalação de qualquer biblioteca! Para que o mesmo seja usado no próprio ambiente** Para criá-lo e ativá-lo, execute os seguintes comandos:
