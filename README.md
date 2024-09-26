@@ -35,7 +35,6 @@ $ pip install pandas matplotlib seaborn
 Para importá-las, basta adicionar o seguinte trecho de código em seu arquivo .py:
 
 ```
-import numpy as np
 import pandas as pd
 import warnings
 from matplotlib import pyplot as plt
